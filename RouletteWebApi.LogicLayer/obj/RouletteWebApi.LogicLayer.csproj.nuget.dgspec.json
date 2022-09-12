@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.LogicLayer\\RouletteWebApi.LogicLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.DataObjects\\RouletteWebApi.DataObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.DataObjects\\RouletteWebApi.DataObjects.csproj",
+        "projectName": "RouletteWebApi.DataObjects",
+        "projectPath": "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.DataObjects\\RouletteWebApi.DataObjects.csproj",
+        "packagesPath": "C:\\Users\\RemoneGamingPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.DataObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RemoneGamingPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.LogicLayer\\RouletteWebApi.LogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.LogicLayer\\RouletteWebApi.LogicLayer.csproj",
+        "projectName": "RouletteWebApi.LogicLayer",
+        "projectPath": "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.LogicLayer\\RouletteWebApi.LogicLayer.csproj",
+        "packagesPath": "C:\\Users\\RemoneGamingPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.LogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RemoneGamingPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.DataObjects\\RouletteWebApi.DataObjects.csproj": {
+                "projectPath": "C:\\Users\\RemoneGamingPC\\Desktop\\Projects\\RouletteApi Sql server version\\RouletteWebApi.DataObjects\\RouletteWebApi.DataObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

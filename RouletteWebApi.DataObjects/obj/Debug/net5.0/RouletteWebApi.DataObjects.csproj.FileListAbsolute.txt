@@ -1,0 +1,84 @@
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.deps.json
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\bin\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfoInputs.cache
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfo.cs
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\source\repos\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.AssemblyReference.cache
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.deps.json
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.AssemblyReference.cache
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfoInputs.cache
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfo.cs
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.deps.json
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfoInputs.cache
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfo.cs
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\source\repos\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.AssemblyReference.cache
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.deps.json
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.AssemblyReference.cache
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfoInputs.cache
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfo.cs
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\Remonen\Documents\SQL-C-Sharp Assessmen Remone Naidoo\Question Two\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.deps.json
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.AssemblyReference.cache
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfoInputs.cache
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfo.cs
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\RouletteApi\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.deps.json
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfoInputs.cache
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfo.cs
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.deps.json
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\bin\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.AssemblyReference.cache
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfoInputs.cache
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.AssemblyInfo.cs
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\ref\RouletteWebApi.DataObjects.dll
+C:\Users\HP X360\Desktop\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.pdb
+C:\Users\RemoneGamingPC\Desktop\Projects\RouletteApi Sql server version\RouletteWebApi.DataObjects\obj\Debug\net5.0\RouletteWebApi.DataObjects.csproj.AssemblyReference.cache
